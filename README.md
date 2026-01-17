@@ -1,6 +1,10 @@
-## Hiya, I'm Maria 👋
+## Heyyy I'm Maria:)
 
-Aspiring Junior DevOps Engineer. Currently completing a Level 4 Software Developer with AI skills bootcamp with Northcoders. Excited to join the coding comminity!
+On my little journey into tech right now! I've always loved logical puzzles, from non-verbal reasoning exercises in school, to Excel formulas and macros in my marketing job, and now finally coding. Some would say it was meant to be ✨ 
+
+Currently studying programming with Northcoders, where we're covering the fundamentals of JS, front-end/back-end sheets and programming concepts. I'll be open to work as a Junior Software Engineer after graduating in March wooo woooo! 
+
+In the meantime, I'm excited become a part of the coding community, make new friends and continue growing. Don't be shy and say hi <3 
 <!--
 **luquelarranaga/luquelarranaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
